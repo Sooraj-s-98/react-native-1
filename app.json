@@ -1,0 +1,12 @@
+{
+  "name": "Home-chef",
+  "displayName": "Home-chef",
+  "expo": {
+    "name": "Home-chef",
+    "slug": "Home-chef",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
